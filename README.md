@@ -1,18 +1,12 @@
 # Random Quote Generator
 
-## Live Website 
-
-
 ## Description
+A simple React application designed to reinforce the use of useState and useEffect hooks. The app fetches and displays random quotes, updating dynamically with each request. This project helps practice side effects, state management, and API interactions in React.
 
 ## Table of Contents
-- [App Demo](#app-demo)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
-## App Demo
-
 
 
 ## Installation
