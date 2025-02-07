@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+h1 {
+  max-width: 65%;
+}
